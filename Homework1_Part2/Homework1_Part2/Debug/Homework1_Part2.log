@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\morit\desktop\fall17\cosc 2030\homework1_part2\homework1_part2\collection.h(42): warning C4715: 'collection<int>::isEmpty': not all control paths return a value
+  Homework1_Part2.vcxproj -> C:\Users\Morit\Desktop\Fall17\COSC 2030\Homework1_Part2\Debug\Homework1_Part2.exe
+  Homework1_Part2.vcxproj -> C:\Users\Morit\Desktop\Fall17\COSC 2030\Homework1_Part2\Debug\Homework1_Part2.pdb (Partial PDB)
